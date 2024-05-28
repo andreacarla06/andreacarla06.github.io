@@ -4163,3 +4163,9 @@ img.u-pull-left {
         width  : 1.6rem;
     }
 }
+
+.nome {
+    margin-top: -65px !important;
+    margin-bottom: 0 !important;
+    font-size: 8em;
+}
