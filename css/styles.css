@@ -3343,7 +3343,7 @@ img.u-pull-left {
     --timeline-vertical-border-pos : 8px;
 
     padding-top                    : var(--vspace-5);
-    padding-bottom                 : var(--vspace-3);
+    padding-bottom                 : var(--vspace-0);
 }
 
 .s-about__block {
@@ -3637,8 +3637,8 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    padding-top      : calc(6 * var(--space));
-    padding-bottom   : calc(5.5 * var(--space));
+    padding-top      : calc(2 * var(--space));
+    padding-bottom   : calc(0 * var(--space));
     background-color : white;
 }
 
@@ -3990,7 +3990,7 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-    padding-top    : calc(6 * var(--space));
+    padding-top    : calc(3 * var(--space));
     padding-bottom : var(--vspace-2_5);
     font-weight    : 300;
     position       : relative;
