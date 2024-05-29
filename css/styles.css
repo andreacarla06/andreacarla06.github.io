@@ -93,7 +93,7 @@
      color-1(#5F9295)
       color-2(#2D2327)
      */
-    --color-1                      : #4682b4;
+    --color-1                      : #000000;
     --color-2                      : hsla(336, 13%, 16%, 1);
     
 
@@ -101,10 +101,10 @@
     
     /* theme color variations */
      
-    --color-1-lighter              : #4682b4;
-    --color-1-light                : #5181a9;
-    --color-1-dark                 : #294056;
-    --color-1-darker               : #294056;
+    --color-1-lighter              : #efefef;
+    --color-1-light                : #efefef;
+    --color-1-dark                 : #8d8d8d;
+    --color-1-darker               : #8d8d8d;
 
     --color-2-lighter              : hsla(336, 13%, 36%, 1);
     --color-2-light                : hsla(336, 13%, 26%, 1);
@@ -177,13 +177,13 @@
 
     /* preloader
      */
-    --color-preloader-bg           : #799fbf;
+    --color-preloader-bg           : #dcdcdc;
     --color-loader                 : var(--color-text-dark);
     --color-loader-light           : var(--color-1-lighter);
 
     /* others
      */
-    --color-body                   : #799fbf;
+    --color-body                   : #dcdcdc;
     --color-border                 : rgba(0, 0, 0, .08);
     --border-radius                : 3px;
 }
