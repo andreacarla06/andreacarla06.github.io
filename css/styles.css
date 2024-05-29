@@ -3589,7 +3589,7 @@ img.u-pull-left {
     .s-about {
         --timeline-left-padding : var(--vspace-1_25);
         padding-top             : var(--vspace-4);
-        padding-bottom          : var(--vspace-2);
+        padding-bottom          : var(--vspace-0);
     }
 
     .s-about .text-subtitle::before {
@@ -3958,8 +3958,8 @@ img.u-pull-left {
 
 @media screen and (max-width: 600px) {
     .s-works {
-        padding-top    : var(--vspace-5);
-        padding-bottom : var(--vspace-4_5);
+        padding-top    : var(--vspace-2);
+        padding-bottom : var(--vspace-0);
     }
 
     .folio-item__title {
@@ -4126,7 +4126,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 600px) {
     .s-footer {
-        padding-top : var(--vspace-5);
+        padding-top : var(--vspace-2);
     }
 
     .ss-copyright span {
